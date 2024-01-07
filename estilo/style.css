@@ -54,12 +54,13 @@ main pre, main p{
 }
 
 .imagem > p {
-    max-width: 39vw;
+    min-width: 0vw;
     background-color: rgba(0, 0, 0, 0.271);
     margin-left: 7.6vw;
+    margin-right: 27vw;
     color: white;
 }
-
+ 
 footer {
     background-color: black;
     color: white;

@@ -48,7 +48,8 @@ section {
     padding-bottom: 10vh;
 }
 
-main pre, main p{
+main p{
+    margin-left: 7.6vw;
     font-size: 3.5vh;
     font-family: 'Sriracha';
 }

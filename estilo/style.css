@@ -55,10 +55,9 @@ main p{
 }
 
 .imagem > p {
-    min-width: 0vw;
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.271);
-    margin-left: 7.6vw;
-    margin-right: 27vw;
+    padding: 5px;
     color: white;
 }
  
